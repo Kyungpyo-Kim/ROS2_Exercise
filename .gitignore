@@ -1,0 +1,10 @@
+build/
+install/
+log/
+bin/
+*.log
+*.swp
+*.user
+*~
+.idea/
+.vscode/
