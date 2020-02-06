@@ -1,0 +1,13 @@
+ 
+<library path="rviz_plugin_test">
+
+  <class
+    name="MyPlugin"
+    type="MyPlugin"
+    base_class_type="rviz_common::Panel">
+    <description>
+      MyPlugin
+    </description>
+  </class>
+
+</library>
