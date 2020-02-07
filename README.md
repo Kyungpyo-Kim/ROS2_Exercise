@@ -35,7 +35,8 @@ Installation information
 ## Rviz2 Pulgin Exercise
 * Empty templete [*]
 ```bash
-cd rviz_plugin_test/
+git clone https://github.com/Kyungpyo-Kim/ROS2_Exercise.git
+cd ROS2_Exercise/rviz_plugin_test/
 colcon build
 . install/setup.bash
 ros2 run rviz2 rviz2
